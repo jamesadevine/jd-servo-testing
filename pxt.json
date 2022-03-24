@@ -1,0 +1,17 @@
+{
+    "name": "servo-power-counter",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "jacdac": "github:microsoft/pxt-jacdac#v0.8.0",
+        "jacdac-servo": "github:microsoft/pxt-jacdac/servo#v0.8.0"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "preferredEditor": "tsprj"
+}
