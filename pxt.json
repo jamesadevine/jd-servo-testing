@@ -10,8 +10,8 @@
         "jacdac-servo": "github:microsoft/pxt-jacdac/servo#v0.8.11"
     },
     "files": [
-        "main.ts",
-        "README.md"
+        "README.md",
+        "main.ts"
     ],
     "testFiles": [
         "test.ts"
